@@ -15,7 +15,6 @@ const PetItem = ({ pet }) => {
 
 export default function App() {
   const [data, setData] = useState(null);
-  const [order, setOrder] = useState("id");
 
   useEffect(() => {
     const fetchData = async () => {
