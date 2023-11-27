@@ -10,7 +10,7 @@ Você terá que baixar um aplicativo para IOS e Android chamado [Expo Go](https:
 1. Abra o cmd na pasta do projeto e rode o comando `npm i`.
 2. Agora, é só rodar o comando `npm run start` que irá aparecer um QR code no cmd, basta escanear ele com o seu Android ou Iphone.
 
-## Rodando no navegador do seu PC/Notebook
+## Rodando no navegador do seu PC/Notebook (No momento não funciona)
 
 1. Abra o cmd na pasta do projeto e rode o comando `npm i`.
 2. Rode o comando `npm run web`.
