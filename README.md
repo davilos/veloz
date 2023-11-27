@@ -8,7 +8,7 @@ Para rodar o projeto você tem que ter o Node.js instalado juntamente com o npm 
 Você terá que baixar um aplicativo para IOS e Android chamado [Expo Go](https://expo.dev/client). 
 
 1. Abra o cmd na pasta do projeto e rode o comando `npm i`.
-2. Agora é só rodar o comando `npm run ios` para Iphone ou `npm run android` para Android.
+2. Agora, é só rodar o comando `npm run start` que irá aparecer um QR code no cmd, basta escanear ele com o seu Android ou Iphone.
 
 ## Rodando no navegador do seu PC/Notebook
 
